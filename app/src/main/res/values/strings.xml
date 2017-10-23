@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Deposit calculator</string>
+    <string name="layout_term_and_sym">Term and Sum</string>
+</resources>
